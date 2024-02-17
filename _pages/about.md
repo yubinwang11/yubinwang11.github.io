@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] in Robotics at The Hong Kong University of Science and Technology (GZ Campus). 
+Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] in [Robotics][roas] at [The Hong Kong University of Science and Technology (GZ Campus)][hkust(gz)]. 
 
 Previously, I was a visiting student with [Meriem Laleg][meriem] (now at [Université Paris-Saclay][paris-scalay] & [INRIA][inria]) and [Hakim Ghazzai][hakim] in [ECE][ece] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] with [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
-My research covers the embodied agents with the focus of bridging reasoning, planning and control for autonomous robots.
+My research covers the embodied agents with the focus of perception, reasoning, planning and control for autonomous robots.
 
 [guohao]: https://ghli.org/
 [camel]: https://www.camel-ai.org/
