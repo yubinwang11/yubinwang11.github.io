@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] and [Jie Song][jie] and in Robotics under [Guangzhou Pilot Scheme][gzpilot] at [The Hong Kong University of Science and Technology][hkust]. I will join [Huawei Noah's Ark Lab][noah] as a young researcher, starting from 2024 Fall.
 
-Previously, I was a visiting student with [Meriem Laleg][meriem] and [Hakim Ghazzai][hakim] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] at [National University of Singapore][nus].
+Previously, I was a visiting student with [Meriem Laleg][meriem] and [Hakim Ghazzai][hakim] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] of [National University of Singapore][nus].
 
 My research covers the embodied AI with the focus of integrated learning and planning for autonomous robots.
 
