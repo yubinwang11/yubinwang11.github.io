@@ -23,7 +23,7 @@ Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] and [Jie So
 
 Previously, I was a visiting student with [Meriem Laleg][meriem] and [Hakim Ghazzai][hakim] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] of [National University of Singapore][nus].
 
-My research covers the AI agent with the focus of integrated learning and planning for autonomous robots.
+My research covers the AI agent with the focus of learning and planning for embodied agents.
 
 [noah]: https://www.noahlab.com.hk/
 [gzpilot]: https://ebookshelf.ust.hk/flippingbook/G21571_Hub/
