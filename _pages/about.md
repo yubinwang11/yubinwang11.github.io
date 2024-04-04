@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] and [Jie Song][jie] and in Robotics under Guangzhou Pilot Scheme at [The Hong Kong University of Science and Technology][hkust]. I will join [Huawei Noah's Ark Lab][noah] as a researcher, starting from 2024 Fall.
+Hi, there. I am a second-year MPhil student advised by [Jun Ma][jun] and [Jie Song][jie] in Robotics under Guangzhou Pilot Scheme at [The Hong Kong University of Science and Technology][hkust]. I will join [Huawei Noah's Ark Lab][noah] as a researcher, starting from 2024 Fall.
 
-Previously, I was a visiting student with [Meriem Laleg][meriem] and [Hakim Ghazzai][hakim] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] of [National University of Singapore][nus].
+Previously, I was a visiting student with [Meriem Laleg][meriem] and [Hakim Ghazzai][hakim] in [ECE][ece] at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] of [National University of Singapore][nus].
 
 My research covers the AI agent with the focus of learning and planning for embodied agents.
 
@@ -30,13 +30,10 @@ My research covers the AI agent with the focus of learning and planning for embo
 [guohao]: https://ghli.org/
 [camel]: https://www.camel-ai.org/
 [neu]: https://www.neu.edu.cn
-[fei]: https://ancl.com.cn/
-[hkust(gz)]: https://hkust-gz.edu.cn/
 [hkust]: https://hkust.edu.hk/
 [roas]: https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems
 [ri]: https://ri.hkust.edu.hk/
 [ece]: https://cemse.kaust.edu.sa/ece
-[yehia]: https://yehiamassoud.com/
 [hakim]: https://sites.google.com/kaust.edu.sa/hakim-ghazzai
 [itl]: https://cemse.kaust.edu.sa/itl
 [meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
@@ -44,7 +41,6 @@ My research covers the AI agent with the focus of learning and planning for embo
 [gui]: https://marmotlab.org/bio.html
 [marmot]: https://www.marmotlab.org
 [nus]: https://www.nus.edu.sg
-[paris-scalay]: https://www.universite-paris-saclay.fr
 [jun]: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/MA-Jun/eejma
 [inria]: https://www.inria.fr/en
 [jie]: https://ait.ethz.ch/people/song
