@@ -7,5 +7,3 @@ inline: true
 [Latent-MPC][latent] was online!
 
 [latent]: https://latent-mpc.github.io/
-
-
