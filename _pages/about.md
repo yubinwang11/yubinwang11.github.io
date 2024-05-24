@@ -19,11 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming researcher at [Huawei Noah's Ark Lab][noah], Shanghai. I will receive my MPhil degree under GZ Pilot Scheme from [the Hong Kong University of Science and Technology][hkust].
+I am an incoming researcher at [Huawei Noah's Ark Lab][noah], Shanghai.
 
-Previously, I was a visiting student at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] in [National University of Singapore][nus].
+<!-- I will receive my MPhil degree under GZ Pilot Scheme from [the Hong Kong University of Science and Technology][hkust].
 
-My research covers AI agents with the focus of learning and planning for embodied agents.
+Previously, I was a visiting student at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] in [National University of Singapore][nus]. -->
+
+My research covers AI agents with the following focus:
+* reasoning and decision-making for LLM agents,
+* planning and control for embodied agents,
+* collaboration of multi-agent systems.
 
 [noah]: https://www.noahlab.com.hk/
 [gzpilot]: https://ebookshelf.ust.hk/flippingbook/G21571_Hub/
