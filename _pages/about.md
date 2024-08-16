@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming researcher at [Huawei Noah's Ark Lab][noah], Shanghai.
+I am a researcher at [Huawei Noah's Ark Lab][noah], Shanghai.
 
 <!-- I will receive my MPhil degree under GZ Pilot Scheme from [the Hong Kong University of Science and Technology][hkust].
 
