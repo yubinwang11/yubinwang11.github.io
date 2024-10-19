@@ -21,9 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a researcher at [Huawei Noah's Ark Lab][noah], Shanghai.
 
-<!-- I will receive my MPhil degree under GZ Pilot Scheme from [the Hong Kong University of Science and Technology][hkust].
-
-Previously, I was a visiting student at [King Abdullah University of Science and Technology][kaust]. I also interned at [Multi-Agent Robotic Motion Lab][marmot] in [National University of Singapore][nus]. -->
+Before this, I received my M.Phil. degree from The Hong Kong University of Science and Technology in 2024 and my B.Eng. degree from Northeastern University in 2022. I was also a visiting student at King Abdullah University of Science and Technology. 
 
 My research covers AI agents.
 
